@@ -1,0 +1,2 @@
+# exercie
+devoir algo
